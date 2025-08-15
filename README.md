@@ -55,4 +55,4 @@ cd drone-anomaly-detection
 pip install torch torch-geometric einops pandas numpy scikit-learn matplotlib tqdm
 
 # Run training and evaluation
-python run_benchmark.py
+python T_25.py
