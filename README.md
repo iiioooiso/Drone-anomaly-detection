@@ -1,5 +1,4 @@
-# Drone-anomaly-detection
-Methodology for building a predictive anomaly detection system for drone flight paths, leveraging a hybrid AI model combining LSTM Autoencoders and Local Outlier Factor (LOF) algorithms. The approach focuses on real-time detection of critical flight anomalies such as sensor malfunctions, signal jamming, and unauthorized diversions. 
+
 # Drone Telemetry Anomaly Detection Benchmark (Synthetic Dataset)
 
 ## Overview
@@ -49,8 +48,8 @@ Each model:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/drone-anomaly-benchmark.git
-cd drone-anomaly-benchmark
+git clone https://github.com/iiioooiso/drone-anomaly-detection.git
+cd drone-anomaly-detection
 
 # Install dependencies
 pip install torch torch-geometric einops pandas numpy scikit-learn matplotlib tqdm
